@@ -12,12 +12,17 @@
 
 ## 插件使用流程
 1-登录五彩网页端，再从下面的URL生成自己的 API 链接
+
 [https://www.dotalk.cn/s/A7](https://www.dotalk.cn/s/A7)
+
 类似
+
 https://marker.dotalk.cn/apix/openapi/ks01/xxxx/create
 
 2-下载 五彩-utools插件，为.upx文件
+
 [wucai-1.0.0.upx](assets/wucai-1.0.0.upx)
+
 将这个文件拖动到utools的输入框即可点击安装
 
 3-配置API setWucaiApi
