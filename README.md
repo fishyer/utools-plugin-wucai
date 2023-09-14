@@ -7,8 +7,8 @@
 其实摘抄功能这个插件也是有的,是sendToWucai命令
 
 ## 开发文档
-[快速上手 | uTools](https://u.tools/docs/developer/welcome.html#plugin-json )
-[五彩 - 网页划线批注插件](https://www.yuque.com/makediff/wucai )
+- [快速上手 | uTools](https://u.tools/docs/developer/welcome.html#plugin-json )
+- [五彩 - 网页划线批注插件](https://www.yuque.com/makediff/wucai )
 
 ## 插件使用流程
 1-登录五彩网页端，再从下面的URL生成自己的 API 链接
