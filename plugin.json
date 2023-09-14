@@ -5,7 +5,7 @@
     "homepage": "https://github.com/fishyer/utools-plugin-wucai",
     "logo": "icons/logo.png",
     "preload": "preload.js",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "features": [{
         "code": "set_api",
         "explain": "设置你的个人 API",
