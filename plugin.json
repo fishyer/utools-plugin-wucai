@@ -1,0 +1,27 @@
+{
+    "pluginName": "wucai",
+    "description": "记录你的临时想法",
+    "author": "fishyer",
+    "homepage": "https://github.com/fishyer/utools-plugin-wucai",
+    "logo": "icons/logo.png",
+    "preload": "preload.js",
+    "version": "1.0.0",
+    "features": [{
+        "code": "set_api",
+        "explain": "设置你的个人 API",
+        "cmds": ["setWucaiApi"]
+    }, {
+        "code": "send_to_database",
+        "explain": "发送文字到 wucai",
+        "icon": "icons/logo.png",
+        "cmds": ["sendToWucai", {
+            "type": "over",
+            "label": "发送文字到Wucai笔记",
+            "minLength": 1
+        }]
+    }, {
+        "code": "add_to_database",
+        "explain": "快速记录到 wucai",
+        "cmds": ["addToWucai"]
+    }]
+}
