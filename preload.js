@@ -10,6 +10,8 @@ const saveToDatabase = (content) => {
   const api = utools.db.get('api');
   console.log(api)
   if (!api) {
+    //由此生成：https://www.dotalk.cn/s/A7
+    //类似：https://marker.dotalk.cn/apix/openapi/ks33/XXXX
     utools.showNotification('请先设置个人 API!');
     return
   }
@@ -19,7 +21,7 @@ const saveToDatabase = (content) => {
 
   const config = {
     method: 'post',
-    url: api.api,
+    url: api.api+"/create",
     headers: {
       'Content-Type': 'application/json'
     },

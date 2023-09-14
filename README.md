@@ -23,7 +23,7 @@ https://marker.dotalk.cn/apix/openapi/ks01/xxxx/create
 
 [wucai-1.0.0.upx](assets/wucai-1.0.0.upx)
 
-将这个文件拖动到utools的输入框即可点击安装
+将这个文件拖动到utools的输入框即可点击安装(复制该文件，再打开utools等同于拖动)
 
 3-配置API setWucaiApi
 
