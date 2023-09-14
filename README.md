@@ -3,8 +3,8 @@
 ![](icons/logo.png)
 
 ## 开发目的
-方便在电脑端快速记录，不同于PopClip插件的摘抄，这个是自己的主动输入
-其实摘抄功能这个插件也是有的,是sendToWucai命令
+- 方便在电脑端快速记录，不同于PopClip插件的摘抄，这个是自己的主动输入
+- 其实摘抄功能这个插件也是有的,是sendToWucai命令
 
 ## 开发文档
 - [快速上手 | uTools](https://u.tools/docs/developer/welcome.html#plugin-json )
@@ -32,3 +32,6 @@ https://marker.dotalk.cn/apix/openapi/ks01/xxxx/create
 ## 演示视频
 [wucai-utools插件演示视频.mp4](assets/wucai-utools插件演示视频.mp4)
 
+## 欢迎Star
+
+如果对你有用的话，不妨赏个Star吧，😄
