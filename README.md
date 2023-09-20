@@ -1,6 +1,6 @@
 # 五彩-utools插件
 
-![](icons/logo.png)
+![](src/logo.png)
 
 ## 开发目的
 - 方便在电脑端快速记录，不同于PopClip插件的摘抄，这个是自己的主动输入
