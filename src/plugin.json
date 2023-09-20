@@ -1,11 +1,11 @@
 {
-    "pluginName": "wucai",
+    "pluginName": "wucai-note",
     "description": "记录你的临时想法",
     "author": "fishyer",
     "homepage": "https://github.com/fishyer/utools-plugin-wucai",
-    "logo": "icons/logo.png",
+    "logo": "./logo.png",
     "preload": "preload.js",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "features": [{
         "code": "set_api",
         "explain": "设置你的个人 API",
@@ -13,7 +13,6 @@
     }, {
         "code": "send_to_database",
         "explain": "发送文字到 wucai",
-        "icon": "icons/logo.png",
         "cmds": ["sendToWucai", {
             "type": "over",
             "label": "发送文字到Wucai笔记",
@@ -22,6 +21,7 @@
     }, {
         "code": "add_to_database",
         "explain": "快速记录到 wucai",
+        "icon": "./logo.png",
         "cmds": ["addToWucai"]
     }]
 }
